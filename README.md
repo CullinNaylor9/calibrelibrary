@@ -57,7 +57,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions or support, open an issue on the GitHub repository or contact us at [cullinnaylor6@gmail.com](mailto:cullinnaylor6@gmail.com).
 
 Happy reading! 📚
-
----
-
-This README focuses on how to use the Calibre backup and manage the eBook collection, without referring to a website or application. Adjust the links and details as needed for your specific repository.
