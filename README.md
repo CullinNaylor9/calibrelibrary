@@ -27,7 +27,7 @@ To use this backup, follow these steps:
 
 1. **Download the Backup**
 
-    - Go to the [releases page](https://github.com/yourusername/ebook-collection-backup/releases) and download the latest backup `.zip` file.
+    - Go to the [releases page](https://github.com/CullinNaylor9/calibrelibrary/releases) and download the latest backup `.zip` file.
 
 2. **Extract the Backup**
 
@@ -54,7 +54,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions or support, open an issue on the GitHub repository or contact us at [support@example.com](mailto:support@example.com).
+For questions or support, open an issue on the GitHub repository or contact us at [cullinnaylor6@gmail.com](mailto:cullinnaylor6@gmail.com).
 
 Happy reading! 📚
 
